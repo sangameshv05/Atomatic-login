@@ -1,0 +1,45 @@
+body{
+    background-color: skyblue;
+    display: inline;
+}
+form{
+    border: 1px solid #eb3700;
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 30px;
+    color: skyblue;
+    border-radius: 20px;
+}
+input{
+    padding: 5px;
+    margin: 10px ;
+    border-radius: 10px;
+}
+label{
+    padding: 10px;
+    margin: 5px ;
+    ;
+}
+#password{
+    margin-left: 16px;
+}
+#submit{
+    margin-left: 140px;
+    width: 100px;
+    background-color: skyblue;
+    color: white;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+    font-style: italic;
+    margin-left: 450px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
